@@ -2,6 +2,6 @@
 - 👀 I’m interested in my computer
 - 🌱 I’m currently learning С++
 - 💞️ I’m looking to collaborate on [telegram](https://t.me/Artu_Gun)
-- 📫 How to reach me [telegram](https://t.me/Artu_Gun) or [email](khandrykinartur@gmail.com)
+- 📫 How to reach me [telegram](https://t.me/Artu_Gun)
 - 😄 Pronouns: Dungeon Master
 - ⚡ Fun fact: I really love pudding
