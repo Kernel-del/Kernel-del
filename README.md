@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kernel-del
 - 👀 I’m interested in my computer
 - 🌱 I’m currently learning С++
-- 💞️ I’m looking to collaborate on [telegram](https://t.me/Artu_Gun)
-- 📫 How to reach me [telegram](https://t.me/Artu_Gun)
+- 💞️ I’m looking to collaborate on [telegram](https://t.me/KernelDel)
+- 📫 How to reach me [telegram](https://t.me/KernelDel)
 - 😄 Pronouns: Dungeon Master
 - ⚡ Fun fact: I really love pudding
